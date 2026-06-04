@@ -8,10 +8,11 @@ Features
 
 - About Me section
 - Skills section
+- Education section
 - Projects showcase
+- Certifications section
 - Contact information
-- Responsive design
-
+  
 Technologies Used
 
 - HTML
